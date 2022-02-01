@@ -1,8 +1,10 @@
-import Home from './home/Home';
+import Watch from './pages/watch/Watch';
 import './App.scss'
+import Register from './pages/register/Register';
+import Login from './pages/login/Login';
 
 function App() {
-  return <Home/>
+  return <Login/>
 }
 
 export default App;
